@@ -1,4 +1,4 @@
 # hello-world
-Primer repositorio\\
+Primer repositorio\
 
 Sigo aprendiendo
