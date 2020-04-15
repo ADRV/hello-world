@@ -1,5 +1,6 @@
 # hello-world
-Primer repositorio\
+Primer repositorio
 
 Sigo aprendiendo
+
 Haré otro cambio
